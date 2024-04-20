@@ -126,4 +126,5 @@ function animate() {
     effect.render();
     requestAnimationFrame(animate);
 }
+
 animate();
